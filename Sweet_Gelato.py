@@ -1,3 +1,3 @@
 print("Este es mi primer repositorio de git")
 
-print("Este va a ser el segundo update")
+print("Cambiamos eta vaina Goku")
